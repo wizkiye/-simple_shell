@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * _getword - returns word
+ * getword - returns word
  *
  * @prmGlobal: char pointer
  * @prmOffset: start of the word
